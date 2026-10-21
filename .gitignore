@@ -1,0 +1,18 @@
+# Entornos virtuales
+bank_stream/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secretos y archivos locales
+.env
+.streamlit/secrets.toml
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
